@@ -1,0 +1,73 @@
+header{
+    background-color: #c882eb;
+    padding: 15px;
+    margin: 10px;
+    text-align: center;
+}
+img{
+    width: 100%;
+    height: auto;
+}
+.price{
+    color: green;
+}
+
+span{
+    text-decoration: line-through;
+    color: #ff1f1f;
+}
+
+
+span{
+    text-decoration: line-through;
+    color: #ff1f1f;
+}
+
+
+span{
+    text-decoration: line-through;
+    color: #ff1f1f;
+}
+.link{
+    background-color: #9105b4;
+    margin: 20px;
+    padding: 10px;
+    text-align: center; 
+}
+
+
+a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+section{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2em;
+
+    display: flex;
+    justify-content: space-between;
+}
+.item{
+    max-width: 250px;
+    text-align: center;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+footer{
+    background-color: #c882eb;
+    padding: 15px;
+    margin: 10px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
